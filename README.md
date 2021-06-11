@@ -5,4 +5,4 @@ My intention to help to people these are struggling with understanding of image 
 
 You can do whatever you want from my code. 
 
-Oh BTW you can find a project that named as "slope_detector" that was project for my course. Maybe this project help you to understand my functions for how to use these.
+Oh BTW you can find a project that named as "slope_detector" that was project for my course. Maybe this project help you to understand my functions for how to use it.
